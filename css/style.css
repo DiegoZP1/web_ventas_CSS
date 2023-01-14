@@ -259,7 +259,7 @@ margin-top: 2rem;
     border-color: var(--primarioOscuro);
     border-width: 1rem;
     border-style: solid;
-    background-color: transparent;
+    background-color: var(--primarioOscuro);
     color: var(--blanco);
     font-size: 2rem;
     font-family: Arial, Helvetica, sans-serif;
